@@ -2,6 +2,15 @@ var map;
 var infoWindow;
 var bounds;
 
+var locations = [{
+        title: "The Central Park",
+        location: { "lat":22.225206,  "lng": 84.862287 },
+        "fs_id": "4eb15f4f9adf1abeffbd2fe4"
+    },
+];
+
+
+
 function getContent(location) {
   console.log("get content called");
   var id = '0FGZHSJJQZ52CWQ2NFDXZNRECQ0YHODVLQIEGF1DXC1VG4NM';
