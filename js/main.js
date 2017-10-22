@@ -7,6 +7,26 @@ var locations = [{
         location: { "lat":22.225206,  "lng": 84.862287 },
         "fs_id": "4eb15f4f9adf1abeffbd2fe4"
     },
+    {
+       title: "Mayfair Rourkela",
+       location: { "lat": 22.227947, "lng":  84.821858 },
+       "fs_id": "4bd1cf2c5e0cce720a06a284"
+   },
+   {
+       title: "Rourkela Railway Station",
+       location: { "lat": 22.227898,  "lng":84.861885 },
+       "fs_id": "4c6cf99223c1a1cd55f71acf"
+   },
+   {
+       title: "Baskin Robbins",
+       location: { "lat": 22.22678, "lng": 84.863342 },
+       "fs_id": "4ed11dbc722e01c5832ded2e"
+   },
+   {
+       title: "NIT, Rourkela ",
+       location: {"lat": 22.253718, "lng": 84.901143 },
+       "fs_id": "4e38ee72c65bab738fcafafd"
+   }
 ];
 
 
